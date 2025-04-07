@@ -3,7 +3,7 @@ Studying alone..
 
 text book: 파이썬 시계열 예측 분석(Time Series Forecasting in Python)
 
-lecture: https://www.kmooc.kr/view/course/detail/5201?tm=20250407224055
+lecture: 시계열분석 기법과 응용 https://www.kmooc.kr/view/course/detail/5201?tm=20250407224055
 
 code: https://github.com/marcopeix/TimeSeriesForecastingInPython
 
