@@ -7,5 +7,5 @@ lecture: 시계열분석 기법과 응용 https://www.kmooc.kr/view/course/detai
 
 code: https://github.com/marcopeix/TimeSeriesForecastingInPython
 
-# Time Series Notes | Notion
+# MY Time Series Notes | Notion
 https://safe-fang-823.notion.site/Time-serises-17f33db18c218002b3c9d7c42d81254f
